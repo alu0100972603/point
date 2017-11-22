@@ -6,6 +6,7 @@ Permite estudiar los conceptos de programación orientada a objetos.
 ## Installation
 
 Add this line to your application's Gemfile:
+Enlazado con travis
 
 ```ruby
 gem 'point'
